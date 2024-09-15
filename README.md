@@ -32,3 +32,5 @@ Future Improvements
 Add more advanced visualizations for the prediction process.
 Improve the model accuracy with additional feature engineering and hyperparameter tuning.
 Allow users to upload health data files (e.g., CSV) for batch predictions.
+
+Project link - http://diabetesprediction-env.eba-ipw8xqs6.eu-north-1.elasticbeanstalk.com/predictdata
